@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/NFTstore/static/css/main.4fc33e83.chunk.css",
-    "main.js": "/NFTstore/static/js/main.f864e0b2.chunk.js",
-    "main.js.map": "/NFTstore/static/js/main.f864e0b2.chunk.js.map",
-    "runtime-main.js": "/NFTstore/static/js/runtime-main.d08bcf83.js",
-    "runtime-main.js.map": "/NFTstore/static/js/runtime-main.d08bcf83.js.map",
+    "main.js": "/NFTstore/static/js/main.26f4dc46.chunk.js",
+    "main.js.map": "/NFTstore/static/js/main.26f4dc46.chunk.js.map",
+    "runtime-main.js": "/NFTstore/static/js/runtime-main.e2b120d1.js",
+    "runtime-main.js.map": "/NFTstore/static/js/runtime-main.e2b120d1.js.map",
     "static/css/2.3dedf797.chunk.css": "/NFTstore/static/css/2.3dedf797.chunk.css",
-    "static/js/2.20376bdc.chunk.js": "/NFTstore/static/js/2.20376bdc.chunk.js",
-    "static/js/2.20376bdc.chunk.js.map": "/NFTstore/static/js/2.20376bdc.chunk.js.map",
-    "static/js/3.8695fddd.chunk.js": "/NFTstore/static/js/3.8695fddd.chunk.js",
-    "static/js/3.8695fddd.chunk.js.map": "/NFTstore/static/js/3.8695fddd.chunk.js.map",
+    "static/js/2.525388c9.chunk.js": "/NFTstore/static/js/2.525388c9.chunk.js",
+    "static/js/2.525388c9.chunk.js.map": "/NFTstore/static/js/2.525388c9.chunk.js.map",
+    "static/js/3.490cc9d2.chunk.js": "/NFTstore/static/js/3.490cc9d2.chunk.js",
+    "static/js/3.490cc9d2.chunk.js.map": "/NFTstore/static/js/3.490cc9d2.chunk.js.map",
     "index.html": "/NFTstore/index.html",
     "static/css/2.3dedf797.chunk.css.map": "/NFTstore/static/css/2.3dedf797.chunk.css.map",
     "static/css/main.4fc33e83.chunk.css.map": "/NFTstore/static/css/main.4fc33e83.chunk.css.map",
-    "static/js/2.20376bdc.chunk.js.LICENSE.txt": "/NFTstore/static/js/2.20376bdc.chunk.js.LICENSE.txt",
+    "static/js/2.525388c9.chunk.js.LICENSE.txt": "/NFTstore/static/js/2.525388c9.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/NFTstore/static/media/revicons.e8746a62.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.d08bcf83.js",
+    "static/js/runtime-main.e2b120d1.js",
     "static/css/2.3dedf797.chunk.css",
-    "static/js/2.20376bdc.chunk.js",
+    "static/js/2.525388c9.chunk.js",
     "static/css/main.4fc33e83.chunk.css",
-    "static/js/main.f864e0b2.chunk.js"
+    "static/js/main.26f4dc46.chunk.js"
   ]
 }
