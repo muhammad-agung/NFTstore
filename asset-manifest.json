@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NFTstore/static/css/main.4fc33e83.chunk.css",
-    "main.js": "/NFTstore/static/js/main.7a8fcb1d.chunk.js",
-    "main.js.map": "/NFTstore/static/js/main.7a8fcb1d.chunk.js.map",
+    "main.js": "/NFTstore/static/js/main.f864e0b2.chunk.js",
+    "main.js.map": "/NFTstore/static/js/main.f864e0b2.chunk.js.map",
     "runtime-main.js": "/NFTstore/static/js/runtime-main.d08bcf83.js",
     "runtime-main.js.map": "/NFTstore/static/js/runtime-main.d08bcf83.js.map",
     "static/css/2.3dedf797.chunk.css": "/NFTstore/static/css/2.3dedf797.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.3dedf797.chunk.css",
     "static/js/2.20376bdc.chunk.js",
     "static/css/main.4fc33e83.chunk.css",
-    "static/js/main.7a8fcb1d.chunk.js"
+    "static/js/main.f864e0b2.chunk.js"
   ]
 }
